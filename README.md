@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/91682540/145383032-0bedcb9e-5e91-48d7-89ab-3752013bf273.png)/Markdown
+![image](https://user-images.githubusercontent.com/91682540/145383032-0bedcb9e-5e91-48d7-89ab-3752013bf273.png)/markdown
 
 # Sample NodeJS application for Azure Pipelines docs
 
